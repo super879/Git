@@ -1,0 +1,3 @@
+# 在终端配置
+git config --global user.name "名称"
+git config --global user.email "xxx@xx.com"
