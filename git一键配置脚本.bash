@@ -4,7 +4,7 @@
 #名称--此处根据自己的更改
 username="laoyahoo"
 #油箱--此处根据自己的更改
-mail="yahushuo@gmail.com"
+mail="xxx@gmail.com"
 
 #---------以下不要动---------------#
 
