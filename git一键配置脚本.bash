@@ -2,7 +2,7 @@
 #一键配置git的config
 
 #名称--此处根据自己的更改
-username="laoyahoo"
+username="xxx"
 #油箱--此处根据自己的更改
 mail="xxx@gmail.com"
 
